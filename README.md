@@ -1,6 +1,6 @@
 ### Hi I'm Nico 👋
 
-
+![screenshot](Screenshot (820).png)
 
 Here are some ideas to get you started:
 
