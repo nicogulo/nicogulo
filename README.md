@@ -8,8 +8,8 @@
 </a>
 
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
- -->
+![](https://visitor-badge.glitch.me/badge?page_id=nicogulo.nicogulo)
+
 <br />
 
 Hi, I'm [Nico Gulo](https://nicogulo.github.io/), a passionate self-taught Front-end web developer.
