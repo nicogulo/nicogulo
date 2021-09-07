@@ -55,8 +55,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![](https://img.shields.io/twitter/follow/_xnfvk?logo=twitter&style=for-the-badge)
 
 <p align="center"> <a href="https://github.com/nicogulo/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicogulo" alt="nicogulo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_xnfvk" target="blank"><img src="https://img.shields.io/twitter/follow/_xnfvk?logo=twitter&style=for-the-badge" alt="_xnfvk" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://twitter.com/_xnfvk" target="blank"><img src="https://img.shields.io/twitter/follow/_xnfvk?logo=twitter&style=for-the-badge" alt="_xnfvk" /></a> </p> -->
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="280" />
 
