@@ -99,7 +99,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicogulo&show_icons=true&locale=en&langs_count=10" alt="nicogulo" /></p>
 
 <figure><embed src="https://wakatime.com/share/@nicogulo/f408dac4-bd92-42f6-b5ac-b984eff90fd5.svg"></embed></figure>
+
 [![wakatime](https://wakatime.com/badge/user/3beb87b2-28af-4bed-bc48-875f17ccab83/project/01e57403-6374-48b5-906a-81a15be87617.svg)](https://wakatime.com/badge/user/3beb87b2-28af-4bed-bc48-875f17ccab83/project/01e57403-6374-48b5-906a-81a15be87617)
+
 [![wakatime](https://wakatime.com/badge/user/3beb87b2-28af-4bed-bc48-875f17ccab83.svg)](https://wakatime.com/@3beb87b2-28af-4bed-bc48-875f17ccab83)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=nicogulo" alt="nicogulo" /></p>
 
