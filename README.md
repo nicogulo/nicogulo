@@ -97,9 +97,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicogulo&show_icons=true&locale=en&layout=compact" alt="nicogulo" /></p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicogulo&show_icons=true&locale=en&langs_count=10" alt="nicogulo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=nicogulo" alt="nicogulo" /></p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicogulo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Nico's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicogulo)](https://github.com/anuraghazra/github-readme-stats) -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicogulo)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicogulo)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
