@@ -60,7 +60,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [https://dev-nic.codes](https://dev-nic.codes)
+- 👨‍💻 All of my projects are available at [https://dev-nic.codes](https://dev-nic.codes) || [https://www.dev-nic.tech/](https://www.dev-nic.tech/)
 
 - 📫 How to reach me **nicogulobelas@gmail.com**
 
