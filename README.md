@@ -62,7 +62,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 👨‍💻 All of my projects are available at [https://dev-nic.codes](https://dev-nic.codes) || [https://www.dev-nic.tech/](https://www.dev-nic.tech/)
 
-- 📫 How to reach me **nicogulobelas@gmail.com**
+- 📫 How to reach me **nicogulobelas@gmail.com** || **im@dev-nic.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
